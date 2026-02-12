@@ -1,0 +1,21 @@
+# Strands Agent Framework (includes MCP client, Tavily, Exa, etc.)
+strands-agents-tools
+
+# AWS SDK (for Bedrock embeddings)
+boto3
+botocore
+
+# MongoDB
+pymongo
+
+# Web API
+fastapi
+uvicorn[standard]
+
+# Utilities
+python-dotenv
+pydantic
+anthropic
+
+# Optional: Tavily API (if using Tavily search)
+# tavily-python>=0.3.0
